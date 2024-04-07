@@ -1,39 +1,39 @@
 function TaskCard() {
   return (
-    <div className="flex flex-col box-sizing-border -mt-12 -ml-16">
+    <div className="flex flex-col box-sizing-border -mt-12 -ml-16  w-screen">
       <div className="m-[0_0_24px_0] flex flex-row justify-center self-start box-sizing-border">
         <span className="break-words font-['Encode_Sans_Expanded'] font-[var(--desktop-text-title,600)] text-[24px] text-[#1A0A02]">
           Tasks of the day
         </span>
       </div>
       <div className="m-[0_0_24px_0] flex flex-row self-start gap-[0_8px] w-[fit-content] box-sizing-border">
-        <div className="rounded-[20px] border-[1px_solid_#B8B8B8] flex flex-row justify-center p-[4px_7.6px_4px_7px] box-sizing-border">
+        <div className=" rounded-[20px] border border-grey border-solid  flex flex-row justify-center p-[4px_7.6px_4px_7px] box-sizing-border">
           <span className="break-words font-['Encode_Sans_Expanded'] font-medium text-[14px] text-[#767676]">
             Not Accepted
           </span>
         </div>
-        <div className="rounded-[20px] border-[1px_solid_#B8B8B8] flex flex-row justify-center p-[4px_7.9px_4px_7px] box-sizing-border">
+        <div className="rounded-[20px] border border-grey border-solid border-[1px_solid_#B8B8B8] flex flex-row justify-center p-[4px_7.9px_4px_7px] box-sizing-border">
           <span className="break-words font-['Encode_Sans_Expanded'] font-medium text-[14px] text-[#767676]">
             Ongoing
           </span>
         </div>
-        <div className="rounded-[20px] border-[1px_solid_#B8B8B8] flex flex-row justify-center p-[4px_7.9px_4px_7px] box-sizing-border">
+        <div className="rounded-[20px] border border-grey border-solid border-[1px_solid_#B8B8B8] flex flex-row justify-center p-[4px_7.9px_4px_7px] box-sizing-border">
           <span className="break-words font-['Encode_Sans_Expanded'] font-medium text-[14px] text-[#767676]">
             Scheduled
           </span>
         </div>
-        <div className="rounded-[20px] border-[1px_solid_#B8B8B8] flex flex-row justify-center p-[4px_7.9px_4px_7px] box-sizing-border">
+        <div className="rounded-[20px] border border-grey border-solid border-[1px_solid_#B8B8B8] flex flex-row justify-center p-[4px_7.9px_4px_7px] box-sizing-border">
           <span className="break-words font-['Encode_Sans_Expanded'] font-medium text-[14px] text-[#767676]">
             Completed
           </span>
         </div>
         <div className="flex flex-row box-sizing-border">
-          <div className="rounded-[20px] border-[1px_solid_#B8B8B8] m-[0_8px_0_0] flex flex-row justify-center p-[4px_7.5px_4px_7px] box-sizing-border">
+          <div className="rounded-[20px] border border-grey border-solid border-[1px_solid_#B8B8B8] m-[0_8px_0_0] flex flex-row justify-center p-[4px_7.5px_4px_7px] box-sizing-border">
             <span className="break-words font-['Encode_Sans_Expanded'] font-medium text-[14px] text-[#767676]">
               Delayed
             </span>
           </div>
-          <div className="rounded-[20px] border-[1px_solid_#B8B8B8] flex flex-row justify-center p-[4px_7.8px_4px_7px] box-sizing-border">
+          <div className="rounded-[20px] border border-grey border-solid border-[1px_solid_#B8B8B8] flex flex-row justify-center p-[4px_7.8px_4px_7px] box-sizing-border">
             <span className="break-words font-['Encode_Sans_Expanded'] font-medium text-[14px] text-[#767676]">
               Ontime
             </span>
