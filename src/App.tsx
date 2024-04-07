@@ -1,10 +1,11 @@
-import './App.css'
+import MainPage from './Pages/MainPage'
+import "./index.css";
 
 function App() {
 
   return (
     <>
-      <div>Nami</div>
+      <MainPage/>
     </>
   )
 }
