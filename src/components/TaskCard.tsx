@@ -42,7 +42,7 @@ function TaskCard() {
       </div>
       <div className="flex flex-row gap-[0_24px] w-[fit-content] box-sizing-border">
             <div className="m-[0_0_92px_0] flex flex-col w-[360px] box-sizing-border">
-              <div className="m-[0_0_24px_0] flex flex-row justify-center w-[360px] box-sizing-border">
+              <div className="border border-grey border-solid rounded-[12px]  m-[0_0_24px_0] flex flex-row justify-center w-[360px] box-sizing-border">
                 <div className="rounded-[12px] border-[0.5px_solid_#B8B8B8] bg-[#FFFFFF] flex flex-col items-center p-[8px_8px_8px_8px] w-[360px] h-[fit-content] box-sizing-border">
                   <div className="m-[0_0_12px_0] flex flex-row justify-between w-[344px] box-sizing-border">
                     <div className="flex flex-row box-sizing-border">
@@ -113,7 +113,7 @@ function TaskCard() {
                       </span>
                     </div>
                   </div>
-                  <div className="rounded-[20px] bg-[#5F69C7] flex flex-row p-[9.7px_0_9.7px_0] w-[344px] box-sizing-border">
+                  <div className="justify-center rounded-[20px] bg-[#5F69C7] flex flex-row p-[9.7px_0_9.7px_0] w-[344px] box-sizing-border">
                     <div className="m-[0_9.7px_0_0] flex flex-row justify-center w-[16.7px] h-[16.7px] box-sizing-border">
                       <img className="w-[16.7px] h-[16.7px]" />
                     </div>
@@ -123,7 +123,7 @@ function TaskCard() {
                   </div>
                 </div>
               </div>
-              <div className="m-[0_0_24px_0] flex flex-row justify-center w-[360px] box-sizing-border">
+              <div className="border border-grey border-solid rounded-[12px] m-[0_0_24px_0] flex flex-row justify-center w-[360px] box-sizing-border">
                 <div className="rounded-[12px] border-[0.5px_solid_#B8B8B8] bg-[#FFFFFF] flex flex-col items-center p-[8px_8px_8px_8px] w-[360px] h-[fit-content] box-sizing-border">
                   <div className="m-[0_0_12px_0] flex flex-row justify-between w-[344px] box-sizing-border">
                     <div className="flex flex-row box-sizing-border">
@@ -194,7 +194,7 @@ function TaskCard() {
                       </span>
                     </div>
                   </div>
-                  <div className="rounded-[20px] bg-[#CC2610] flex flex-row p-[9.7px_0_9.7px_0] w-[344px] box-sizing-border">
+                  <div className="justify-center rounded-[20px] bg-[#CC2610] flex flex-row p-[9.7px_0_9.7px_0] w-[344px] box-sizing-border">
                     <div className="m-[0_9.7px_0_0] flex flex-row justify-center w-[16.7px] h-[16.7px] box-sizing-border">
                       <img className="w-[16.7px] h-[16.7px]" />
                     </div>
@@ -204,7 +204,7 @@ function TaskCard() {
                   </div>
                 </div>
               </div>
-              <div className="m-[0_0_24px_0] flex flex-row justify-center w-[360px] box-sizing-border">
+              <div className="border border-grey border-solid rounded-[12px] m-[0_0_24px_0] flex flex-row justify-center w-[360px] box-sizing-border">
                 <div className="rounded-[12px] border-[0.5px_solid_#B8B8B8] bg-[#FFFFFF] flex flex-col items-center p-[8px_8px_8px_8px] w-[360px] h-[fit-content] box-sizing-border">
                   <div className="m-[0_0_12px_0] flex flex-row justify-between w-[344px] box-sizing-border">
                     <div className="flex flex-row box-sizing-border">
@@ -277,7 +277,7 @@ function TaskCard() {
                   </div>
                 </div>
               </div>
-              <div className="box-sizing-border">
+              <div className="border border-grey border-solid rounded-[12px] box-sizing-border">
                 <div className="rounded-[12px] border-[0.5px_solid_#B8B8B8] bg-[#FFFFFF] flex flex-col p-[8px_8px_8px_8px] box-sizing-border">
                   <div className="m-[0_0_12px_0] flex flex-row justify-between w-[344px] box-sizing-border">
                     <div className="flex flex-row box-sizing-border">
@@ -376,7 +376,7 @@ function TaskCard() {
                       </span>
                     </div>
                   </div>
-                  <div className="rounded-[20px] bg-[#5F69C7] flex flex-row p-[9.7px_0_9.7px_0] w-[344px] box-sizing-border">
+                  <div className="justify-center rounded-[20px] bg-[#5F69C7] flex flex-row p-[9.7px_0_9.7px_0] w-[344px] box-sizing-border">
                     <div className="m-[0_9.7px_0_0] flex flex-row justify-center w-[16.7px] h-[16.7px] box-sizing-border">
                       <img className="w-[16.7px] h-[16.7px]" />
                     </div>
@@ -388,7 +388,7 @@ function TaskCard() {
               </div>
             </div>
             <div className="m-[0_0_15px_0] flex flex-col items-center box-sizing-border">
-              <div className="m-[0_0_24px_0] flex flex-row justify-center box-sizing-border">
+              <div className="border border-grey border-solid rounded-[12px] m-[0_0_24px_0] flex flex-row justify-center box-sizing-border">
                 <div className="rounded-[12px] border-[0.5px_solid_#B8B8B8] bg-[#FFFFFF] flex flex-col p-[8px_8px_8px_8px] box-sizing-border">
                   <div className="m-[0_0_12px_0] flex flex-row self-start w-[fit-content] box-sizing-border">
                     <div className="rounded-[4px] bg-[#F7F7F7] m-[0_4px_0_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
@@ -442,7 +442,7 @@ function TaskCard() {
                       </span>
                     </div>
                   </div>
-                  <div className="flex flex-row justify-center w-[319px] box-sizing-border">
+                  <div className="border border-[#5F69C7] border-solid rounded-[20px] flex flex-row justify-center w-[319px] box-sizing-border">
                     <div className="rounded-[20px] border-[1px_solid_#5F69C7] flex flex-row justify-center p-[7px_0.9px_7px_0] w-[319px] h-[fit-content] box-sizing-border">
                       <span className="break-words font-['Encode_Sans_Expanded'] font-[var(--buttonbutton-text-secondary,500)] text-[12px] text-[#5F69C7]">
                       View Details
@@ -451,7 +451,7 @@ function TaskCard() {
                   </div>
                 </div>
               </div>
-              <div className="rounded-[12px] border-[0.5px_solid_#B8B8B8] bg-[#FFFFFF] m-[0_0_24px_0] flex flex-col p-[8px_8px_8px_8px] w-[fit-content] box-sizing-border">
+              <div className="border border-grey border-solid rounded-[12px] border-[0.5px_solid_#B8B8B8] bg-[#FFFFFF] m-[0_0_24px_0] flex flex-col p-[8px_8px_8px_8px] w-[fit-content] box-sizing-border">
                 <div className="m-[0_0_12px_0] flex flex-row self-start w-[fit-content] box-sizing-border">
                   <div className="rounded-[4px] bg-[#F7F7F7] m-[0_4px_0_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
                     <div className="rounded-[2px] bg-[#FFFFFF] m-[0_5px_0_0] flex flex-row justify-center p-[2px_2px_2px_2px] w-[16px] h-[16px] box-sizing-border">
@@ -504,7 +504,7 @@ function TaskCard() {
                     </span>
                   </div>
                 </div>
-                <div className="rounded-[20px] flex flex-row justify-center w-[319px] box-sizing-border">
+                <div className="border border-[#5F69C7] border-solid rounded-[20px] flex flex-row justify-center w-[319px] box-sizing-border">
                   <div className="rounded-[20px] border-[1px_solid_#5F69C7] flex flex-row justify-center p-[7px_0.9px_7px_0] w-[319px] h-[fit-content] box-sizing-border">
                     <span className="break-words font-['Encode_Sans_Expanded'] font-[var(--buttonbutton-text-secondary,500)] text-[12px] text-[#5F69C7]">
                     View Details
@@ -512,7 +512,7 @@ function TaskCard() {
                   </div>
                 </div>
               </div>
-              <div className="m-[0_0_24px_0] flex flex-row justify-center box-sizing-border">
+              <div className="border border-grey border-solid rounded-[12px] m-[0_0_24px_0] flex flex-row justify-center box-sizing-border">
                 <div className="rounded-[12px] border-[0.5px_solid_#B8B8B8] bg-[#FFFFFF] flex flex-col p-[8px_8px_8px_8px] box-sizing-border">
                   <div className="m-[0_0_12px_0] flex flex-row self-start w-[fit-content] box-sizing-border">
                     <div className="rounded-[4px] bg-[#F7F7F7] m-[0_4px_0_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
@@ -566,7 +566,7 @@ function TaskCard() {
                       </span>
                     </div>
                   </div>
-                  <div className="flex flex-row justify-center w-[319px] box-sizing-border">
+                  <div className="border border-[#5F69C7] border-solid rounded-[20px] flex flex-row justify-center w-[319px] box-sizing-border">
                     <div className="rounded-[20px] border-[1px_solid_#5F69C7] flex flex-row justify-center p-[7px_0.9px_7px_0] w-[319px] h-[fit-content] box-sizing-border">
                       <span className="break-words font-['Encode_Sans_Expanded'] font-[var(--buttonbutton-text-secondary,500)] text-[12px] text-[#5F69C7]">
                       View Details
@@ -575,7 +575,7 @@ function TaskCard() {
                   </div>
                 </div>
               </div>
-              <div className="m-[0_0_24px_0] flex flex-row justify-center box-sizing-border">
+              <div className="border border-grey border-solid rounded-[12px] m-[0_0_24px_0] flex flex-row justify-center box-sizing-border">
                 <div className="rounded-[12px] border-[0.5px_solid_#B8B8B8] bg-[#FFFFFF] flex flex-col p-[8px_8px_8px_8px] box-sizing-border">
                   <div className="m-[0_0_12px_0] flex flex-row self-start w-[fit-content] box-sizing-border">
                     <div className="rounded-[4px] bg-[#F7F7F7] m-[0_4px_0_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
@@ -629,7 +629,7 @@ function TaskCard() {
                       </span>
                     </div>
                   </div>
-                  <div className="flex flex-row justify-center w-[319px] box-sizing-border">
+                  <div className="border border-[#5F69C7] border-solid rounded-[20px] flex flex-row justify-center w-[319px] box-sizing-border">
                     <div className="rounded-[20px] border-[1px_solid_#5F69C7] flex flex-row justify-center p-[7px_0.9px_7px_0] w-[319px] h-[fit-content] box-sizing-border">
                       <span className="break-words font-['Encode_Sans_Expanded'] font-[var(--buttonbutton-text-secondary,500)] text-[12px] text-[#5F69C7]">
                       View Details
@@ -638,7 +638,7 @@ function TaskCard() {
                   </div>
                 </div>
               </div>
-              <div className="rounded-[12px] border-[0.5px_solid_#B8B8B8] bg-[#FFFFFF] flex flex-col p-[8px_8px_8px_8px] w-[fit-content] box-sizing-border">
+              <div className="border border-grey border-solid rounded-[12px] border-[0.5px_solid_#B8B8B8] bg-[#FFFFFF] flex flex-col p-[8px_8px_8px_8px] w-[fit-content] box-sizing-border">
                 <div className="m-[0_0_12px_0] flex flex-row self-start w-[fit-content] box-sizing-border">
                   <div className="rounded-[4px] bg-[#F7F7F7] m-[0_4px_0_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
                     <div className="rounded-[2px] bg-[#FFFFFF] m-[0_5px_0_0] flex flex-row justify-center p-[2px_2px_2px_2px] w-[16px] h-[16px] box-sizing-border">
@@ -691,7 +691,7 @@ function TaskCard() {
                     </span>
                   </div>
                 </div>
-                <div className="rounded-[20px] flex flex-row justify-center w-[319px] box-sizing-border">
+                <div className="border border-[#5F69C7] border-solid rounded-[20px] flex flex-row justify-center w-[319px] box-sizing-border">
                   <div className="rounded-[20px] border-[1px_solid_#5F69C7] flex flex-row justify-center p-[7px_0.9px_7px_0] w-[319px] h-[fit-content] box-sizing-border">
                     <span className="break-words font-['Encode_Sans_Expanded'] font-[var(--buttonbutton-text-secondary,500)] text-[12px] text-[#5F69C7]">
                     View Details
@@ -701,7 +701,7 @@ function TaskCard() {
               </div>
             </div>
             <div className="flex flex-col items-center box-sizing-border">
-              <div className="m-[0_0_24px_0] flex flex-row justify-center w-[360px] box-sizing-border">
+              <div className="border border-grey border-solid rounded-[12px] m-[0_0_24px_0] flex flex-row justify-center w-[360px] box-sizing-border">
                 <div className="rounded-[12px] border-[0.5px_solid_#B8B8B8] bg-[#FFFFFF] flex flex-col items-center p-[8px_8px_8px_8px] w-[360px] h-[fit-content] box-sizing-border">
                   <div className="m-[0_0_12px_0] flex flex-row justify-between w-[344px] box-sizing-border">
                     <div className="flex flex-row box-sizing-border">
@@ -772,7 +772,7 @@ function TaskCard() {
                       </span>
                     </div>
                   </div>
-                  <div className="flex flex-row justify-center w-[344px] box-sizing-border">
+                  <div className="border border-[#5F69C7] border-solid rounded-[20px] flex flex-row justify-center w-[344px] box-sizing-border">
                     <div className="rounded-[20px] border-[1px_solid_#5F69C7] flex flex-row justify-center p-[7px_0.9px_7px_0] w-[344px] h-[fit-content] box-sizing-border">
                       <span className="break-words font-['Encode_Sans_Expanded'] font-[var(--buttonbutton-text-secondary,500)] text-[12px] text-[#5F69C7]">
                       View Details
@@ -781,7 +781,7 @@ function TaskCard() {
                   </div>
                 </div>
               </div>
-              <div className="rounded-[12px] border-[0.5px_solid_#B8B8B8] bg-[#FFFFFF] m-[0_0_24px_0] flex flex-col items-center p-[8px_8px_8px_8px] w-[360px] box-sizing-border">
+              <div className="border border-grey border-solid rounded-[12px] border-[0.5px_solid_#B8B8B8] bg-[#FFFFFF] m-[0_0_24px_0] flex flex-col items-center p-[8px_8px_8px_8px] w-[360px] box-sizing-border">
                 <div className="m-[0_0_12px_0] flex flex-row justify-between w-[344px] box-sizing-border">
                   <div className="flex flex-row box-sizing-border">
                     <div className="rounded-[4px] bg-[#F7F7F7] m-[1.5px_4px_1.5px_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
@@ -851,7 +851,7 @@ function TaskCard() {
                     </span>
                   </div>
                 </div>
-                <div className="flex flex-row justify-center w-[344px] box-sizing-border">
+                <div className="border border-[#5F69C7] border-solid rounded-[20px] flex flex-row justify-center w-[344px] box-sizing-border">
                   <div className="rounded-[20px] border-[1px_solid_#5F69C7] flex flex-row justify-center p-[7px_0.9px_7px_0] w-[344px] h-[fit-content] box-sizing-border">
                     <span className="break-words font-['Encode_Sans_Expanded'] font-[var(--buttonbutton-text-secondary,500)] text-[12px] text-[#5F69C7]">
                     View Details
@@ -859,7 +859,7 @@ function TaskCard() {
                   </div>
                 </div>
               </div>
-              <div className="rounded-[12px] border-[0.5px_solid_#B8B8B8] bg-[#FFFFFF] m-[0_0_24px_0] flex flex-col items-center p-[8px_8px_8px_8px] w-[360px] box-sizing-border">
+              <div className="border border-grey border-solid rounded-[12px] border-[0.5px_solid_#B8B8B8] bg-[#FFFFFF] m-[0_0_24px_0] flex flex-col items-center p-[8px_8px_8px_8px] w-[360px] box-sizing-border">
                 <div className="m-[0_0_12px_0] flex flex-row justify-between w-[344px] box-sizing-border">
                   <div className="flex flex-row box-sizing-border">
                     <div className="rounded-[4px] bg-[#F7F7F7] m-[1.5px_4px_1.5px_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
@@ -929,7 +929,7 @@ function TaskCard() {
                     </span>
                   </div>
                 </div>
-                <div className="flex flex-row justify-center w-[344px] box-sizing-border">
+                <div className="border border-[#5F69C7] border-solid rounded-[20px] flex flex-row justify-center w-[344px] box-sizing-border">
                   <div className="rounded-[20px] border-[1px_solid_#5F69C7] flex flex-row justify-center p-[7px_0.9px_7px_0] w-[344px] h-[fit-content] box-sizing-border">
                     <span className="break-words font-['Encode_Sans_Expanded'] font-[var(--buttonbutton-text-secondary,500)] text-[12px] text-[#5F69C7]">
                     View Details
@@ -937,7 +937,7 @@ function TaskCard() {
                   </div>
                 </div>
               </div>
-              <div className="rounded-[12px] border-[0.5px_solid_#B8B8B8] bg-[#FFFFFF] m-[0_0_24px_0] flex flex-col p-[8px_8px_8px_8px] w-[fit-content] box-sizing-border">
+              <div className="border border-grey border-solid rounded-[12px] border-[0.5px_solid_#B8B8B8] bg-[#FFFFFF] m-[0_0_24px_0] flex flex-col p-[8px_8px_8px_8px] w-[fit-content] box-sizing-border">
                 <div className="m-[0_0_12px_0] flex flex-row self-start w-[fit-content] box-sizing-border">
                   <div className="rounded-[4px] bg-[#F7F7F7] m-[1.5px_4px_1.5px_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
                     <div className="rounded-[2px] bg-[#FFFFFF] m-[0_5px_0_0] flex flex-row justify-center p-[2px_2px_2px_2px] w-[16px] h-[16px] box-sizing-border">
@@ -992,7 +992,7 @@ function TaskCard() {
                     </span>
                   </div>
                 </div>
-                <div className="flex flex-row justify-center w-[344px] box-sizing-border">
+                <div className="border border-[#5F69C7] border-solid rounded-[20px] flex flex-row justify-center w-[344px] box-sizing-border">
                   <div className="rounded-[20px] border-[1px_solid_#5F69C7] flex flex-row justify-center p-[7px_0.9px_7px_0] w-[344px] h-[fit-content] box-sizing-border">
                     <span className="break-words font-['Encode_Sans_Expanded'] font-[var(--buttonbutton-text-secondary,500)] text-[12px] text-[#5F69C7]">
                     View Details
@@ -1000,7 +1000,7 @@ function TaskCard() {
                   </div>
                 </div>
               </div>
-              <div className="flex flex-row justify-center w-[360px] box-sizing-border">
+              <div className="border border-grey border-solid rounded-[12px] flex flex-row justify-center w-[360px] box-sizing-border">
                 <div className="rounded-[12px] border-[0.5px_solid_#B8B8B8] bg-[#FFFFFF] flex flex-col items-center p-[8px_8px_8px_8px] w-[360px] h-[fit-content] box-sizing-border">
                   <div className="m-[0_0_12px_0] flex flex-row justify-between w-[344px] box-sizing-border">
                     <div className="flex flex-row box-sizing-border">
@@ -1071,7 +1071,7 @@ function TaskCard() {
                       </span>
                     </div>
                   </div>
-                  <div className="flex flex-row justify-center w-[344px] box-sizing-border">
+                  <div className="border border-[#5F69C7] border-solid rounded-[20px] flex flex-row justify-center w-[344px] box-sizing-border">
                     <div className="rounded-[20px] border-[1px_solid_#5F69C7] flex flex-row justify-center p-[7px_0.9px_7px_0] w-[344px] h-[fit-content] box-sizing-border">
                       <span className="break-words font-['Encode_Sans_Expanded'] font-[var(--buttonbutton-text-secondary,500)] text-[12px] text-[#5F69C7]">
                       View Details
