@@ -48,7 +48,7 @@ function TaskCard() {
                     <div className="flex flex-row box-sizing-border">
                       <div className="rounded-[4px] bg-[#F7F7F7] m-[1.5px_4px_1.5px_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
                         <div className="rounded-[2px] bg-[#FFFFFF] m-[0_5px_0_0] flex flex-row justify-center p-[2px_2px_2px_2px] w-[16px] h-[16px] box-sizing-border">
-                          <img className="w-[12px] h-[12px]" />
+                          <img src="https://w7.pngwing.com/pngs/938/934/png-transparent-fork-spoon-cloth-napkins-fork-plate-logo-vector-icons-thumbnail.png" className="w-[12px] h-[12px]" />
                         </div>
                         <div className="m-[0.5px_5.1px_0.5px_0] inline-block break-words font-['Encode_Sans_Expanded'] font-[var(--desktop-text-title-small,600)] text-[12px] text-[#1A0A02]">
                         Rajesh
@@ -62,7 +62,7 @@ function TaskCard() {
                         </span>
                       </div>
                       <div className="rounded-[20px] bg-[#F7F7F7] m-[1.5px_0_1.5px_0] flex flex-row justify-center p-[2.7px_4.7px_2.7px_4.7px] w-[24px] h-[20px] box-sizing-border">
-                        <img className="w-[14.7px] h-[14.7px]" />
+                        <img src="https://static.vecteezy.com/system/resources/thumbnails/016/186/968/small/reload-refresh-arrow-direction-rotate-icon-symbol-sign-free-vector.jpg" className="w-[14.7px] h-[16px]" />
                       </div>
                     </div>
                     <div className="m-[1px_0_1px_0] flex flex-row justify-center box-sizing-border">
@@ -89,7 +89,7 @@ function TaskCard() {
                   <div className="m-[0_0.3px_12.5px_2px] flex flex-row justify-between w-[341.7px] box-sizing-border">
                     <div className="relative p-[0.8px_0_0.8px_0] w-[153.8px] h-[15px] box-sizing-border">
                       <div className="flex flex-row justify-center w-[12px] h-[13.3px] box-sizing-border">
-                        <img className="w-[12px] h-[13.3px]" />
+                        <img src="https://cdn5.vectorstock.com/i/1000x1000/51/09/calendar-icon-vector-22895109.jpg" className="w-[12px] h-[13.3px]" />
                       </div>
                       <span className="absolute right-[0px] bottom-[0px] break-words font-['Montserrat'] font-medium text-[12px] text-[#767676]">
                        21 Jul 2024 | 03:00 am
@@ -129,7 +129,7 @@ function TaskCard() {
                     <div className="flex flex-row box-sizing-border">
                       <div className="rounded-[4px] bg-[#F7F7F7] m-[1.5px_4px_1.5px_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
                         <div className="rounded-[2px] bg-[#FFFFFF] m-[0_5px_0_0] flex flex-row justify-center p-[2px_2px_2px_2px] w-[16px] h-[16px] box-sizing-border">
-                          <img className="w-[12px] h-[12px]" />
+                          <img src="https://w7.pngwing.com/pngs/938/934/png-transparent-fork-spoon-cloth-napkins-fork-plate-logo-vector-icons-thumbnail.png" className="w-[12px] h-[12px]" />
                         </div>
                         <div className="m-[0.5px_5.1px_0.5px_0] inline-block break-words font-['Encode_Sans_Expanded'] font-[var(--desktop-text-title-small,600)] text-[12px] text-[#1A0A02]">
                         Rajesh
@@ -143,7 +143,7 @@ function TaskCard() {
                         </span>
                       </div>
                       <div className="rounded-[20px] bg-[#F7F7F7] m-[1.5px_0_1.5px_0] flex flex-row justify-center p-[2.7px_4.7px_2.7px_4.7px] w-[24px] h-[20px] box-sizing-border">
-                        <img className="w-[14.7px] h-[14.7px]" />
+                        <img src="https://static.vecteezy.com/system/resources/thumbnails/016/186/968/small/reload-refresh-arrow-direction-rotate-icon-symbol-sign-free-vector.jpg" className="w-[14.7px] h-[16px]" />
                       </div>
                     </div>
                     <div className="m-[1px_0_1px_0] flex flex-row justify-center box-sizing-border">
@@ -170,7 +170,7 @@ function TaskCard() {
                   <div className="m-[0_0.3px_12.5px_2px] flex flex-row justify-between w-[341.7px] box-sizing-border">
                     <div className="relative p-[0.8px_0_0.8px_0] w-[153.8px] h-[15px] box-sizing-border">
                       <div className="flex flex-row justify-center w-[12px] h-[13.3px] box-sizing-border">
-                        <img className="w-[12px] h-[13.3px]" />
+                        <img src="https://cdn5.vectorstock.com/i/1000x1000/51/09/calendar-icon-vector-22895109.jpg" className="w-[12px] h-[13.3px]" />
                       </div>
                       <span className="absolute right-[0px] bottom-[0px] break-words font-['Montserrat'] font-medium text-[12px] text-[#767676]">
                        21 Jul 2024 | 03:00 am
@@ -210,7 +210,7 @@ function TaskCard() {
                     <div className="flex flex-row box-sizing-border">
                       <div className="rounded-[4px] bg-[#F7F7F7] m-[1.5px_4px_1.5px_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
                         <div className="rounded-[2px] bg-[#FFFFFF] m-[0_5px_0_0] flex flex-row justify-center p-[2px_2px_2px_2px] w-[16px] h-[16px] box-sizing-border">
-                          <img className="w-[12px] h-[12px]" />
+                          <img src="https://w7.pngwing.com/pngs/938/934/png-transparent-fork-spoon-cloth-napkins-fork-plate-logo-vector-icons-thumbnail.png" className="w-[12px] h-[12px]" />
                         </div>
                         <div className="m-[0.5px_5.1px_0.5px_0] inline-block break-words font-['Encode_Sans_Expanded'] font-[var(--desktop-text-title-small,600)] text-[12px] text-[#1A0A02]">
                         Rajesh
@@ -251,7 +251,7 @@ function TaskCard() {
                   <div className="m-[0_0.3px_12.5px_2px] flex flex-row justify-between w-[341.7px] box-sizing-border">
                     <div className="relative p-[0.8px_0_0.8px_0] w-[153.8px] h-[15px] box-sizing-border">
                       <div className="flex flex-row justify-center w-[12px] h-[13.3px] box-sizing-border">
-                        <img className="w-[12px] h-[13.3px]" />
+                        <img src="https://cdn5.vectorstock.com/i/1000x1000/51/09/calendar-icon-vector-22895109.jpg" className="w-[12px] h-[13.3px]" />
                       </div>
                       <span className="absolute right-[0px] bottom-[0px] break-words font-['Montserrat'] font-medium text-[12px] text-[#767676]">
                        21 Jul 2024 | 03:00 am
@@ -283,7 +283,7 @@ function TaskCard() {
                     <div className="flex flex-row box-sizing-border">
                       <div className="rounded-[4px] bg-[#F7F7F7] m-[1.5px_4px_1.5px_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
                         <div className="rounded-[2px] bg-[#FFFFFF] m-[0_5px_0_0] flex flex-row justify-center p-[2px_2px_2px_2px] w-[16px] h-[16px] box-sizing-border">
-                          <img className="w-[12px] h-[12px]" />
+                          <img src="https://w7.pngwing.com/pngs/938/934/png-transparent-fork-spoon-cloth-napkins-fork-plate-logo-vector-icons-thumbnail.png" className="w-[12px] h-[12px]" />
                         </div>
                         <div className="m-[0.5px_5.1px_0.5px_0] inline-block break-words font-['Encode_Sans_Expanded'] font-[var(--desktop-text-title-small,600)] text-[12px] text-[#1A0A02]">
                         Rajesh
@@ -291,10 +291,8 @@ function TaskCard() {
                         <div className="rounded-[4px] bg-[#CC2610] m-[4px_0_4px_0] w-[8px] h-[8px]">
                         </div>
                       </div>
-                      <div className="rounded-[20px] bg-[#F7F7F7] flex flex-row justify-center p-[4px_8.1px_4px_8px] box-sizing-border">
-                        <span className="break-words font-['Montserrat'] font-[var(--text-desktop-hint,500)] text-[12px] text-[#1A0A02]">
-                        Scheduled
-                        </span>
+                      <div className="rounded-[20px] bg-[#F7F7F7] flex flex-row justify-center p-[4px_6px_4px_6px] w-[24px] h-[20px] box-sizing-border">
+                        <img src="https://cdn.icon-icons.com/icons2/2716/PNG/512/number_square_one_icon_172987.png" className="w-[12px] h-[12px]" />
                       </div>
                       </div>
                     <div className="m-[1px_0_1px_0] flex flex-row justify-center box-sizing-border">
@@ -321,7 +319,7 @@ function TaskCard() {
                   <div className="m-[0_0.3px_12.5px_2px] flex flex-row justify-between w-[341.7px] box-sizing-border">
                     <div className="relative p-[0.8px_0_0.8px_0] w-[153.8px] h-[15px] box-sizing-border">
                       <div className="flex flex-row justify-center w-[12px] h-[13.3px] box-sizing-border">
-                        <img className="w-[12px] h-[13.3px]" />
+                        <img src="https://cdn5.vectorstock.com/i/1000x1000/51/09/calendar-icon-vector-22895109.jpg" className="w-[12px] h-[13.3px]" />
                       </div>
                       <span className="absolute right-[0px] bottom-[0px] break-words font-['Montserrat'] font-medium text-[12px] text-[#767676]">
                        21 Jul 2024 | 03:00 am
@@ -393,7 +391,7 @@ function TaskCard() {
                   <div className="m-[0_0_12px_0] flex flex-row self-start w-[fit-content] box-sizing-border">
                     <div className="rounded-[4px] bg-[#F7F7F7] m-[0_4px_0_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
                       <div className="rounded-[2px] bg-[#FFFFFF] m-[0_5px_0_0] flex flex-row justify-center p-[2px_2px_2px_2px] w-[16px] h-[16px] box-sizing-border">
-                        <img className="w-[12px] h-[12px]" />
+                        <img src="https://w7.pngwing.com/pngs/938/934/png-transparent-fork-spoon-cloth-napkins-fork-plate-logo-vector-icons-thumbnail.png" className="w-[12px] h-[12px]" />
                       </div>
                       <div className="m-[0.5px_5.1px_0.5px_0] inline-block break-words font-['Encode_Sans_Expanded'] font-[var(--desktop-text-title-small,600)] text-[12px] text-[#1A0A02]">
                       Rajesh
@@ -402,7 +400,7 @@ function TaskCard() {
                       </div>
                     </div>
                     <div className="rounded-[20px] bg-[#F7F7F7] flex flex-row justify-center p-[2.7px_4.7px_2.7px_4.7px] w-[24px] h-[20px] box-sizing-border">
-                      <img className="w-[14.7px] h-[14.7px]" />
+                      <img src="https://static.vecteezy.com/system/resources/thumbnails/016/186/968/small/reload-refresh-arrow-direction-rotate-icon-symbol-sign-free-vector.jpg" className="w-[14.7px] h-[16px]"  />
                     </div>
                   </div>
                   <div className="m-[0_0_13.3px_0] flex flex-row justify-between w-[319px] box-sizing-border">
@@ -418,7 +416,7 @@ function TaskCard() {
                   <div className="m-[0_0.6px_13.3px_2px] flex flex-row justify-between w-[316.4px] box-sizing-border">
                     <div className="flex flex-row box-sizing-border">
                       <div className="m-[0_7px_0_0] flex flex-row justify-center w-[12px] h-[13.3px] box-sizing-border">
-                        <img className="w-[12px] h-[13.3px]" />
+                        <img src="https://cdn5.vectorstock.com/i/1000x1000/51/09/calendar-icon-vector-22895109.jpg" className="w-[12px] h-[13.3px]" />
                       </div>
                       <div className="m-[0.7px_0px_0.7px_0] inline-block break-words font-['Montserrat'] font-[var(--texthint-text-1,500)] text-[10px] text-[#767676]">
                        21 Jul 2024 | 03:00 am
@@ -455,7 +453,7 @@ function TaskCard() {
                 <div className="m-[0_0_12px_0] flex flex-row self-start w-[fit-content] box-sizing-border">
                   <div className="rounded-[4px] bg-[#F7F7F7] m-[0_4px_0_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
                     <div className="rounded-[2px] bg-[#FFFFFF] m-[0_5px_0_0] flex flex-row justify-center p-[2px_2px_2px_2px] w-[16px] h-[16px] box-sizing-border">
-                      <img className="w-[12px] h-[12px]" />
+                      <img src="https://w7.pngwing.com/pngs/938/934/png-transparent-fork-spoon-cloth-napkins-fork-plate-logo-vector-icons-thumbnail.png" className="w-[12px] h-[12px]" />
                     </div>
                     <div className="m-[0.5px_5.1px_0.5px_0] inline-block break-words font-['Encode_Sans_Expanded'] font-[var(--desktop-text-title-small,600)] text-[12px] text-[#1A0A02]">
                     Rajesh
@@ -464,7 +462,7 @@ function TaskCard() {
                     </div>
                   </div>
                   <div className="rounded-[20px] bg-[#F7F7F7] flex flex-row justify-center p-[4px_6px_4px_6px] w-[24px] h-[20px] box-sizing-border">
-                    <img className="w-[12px] h-[12px]" />
+                    <img src="https://cdn.icon-icons.com/icons2/2716/PNG/512/number_square_one_icon_172987.png"  className="w-[12px] h-[12px]"/>
                   </div>
                 </div>
                 <div className="m-[0_0_13.3px_0] flex flex-row justify-between w-[319px] box-sizing-border">
@@ -480,7 +478,7 @@ function TaskCard() {
                 <div className="m-[0_0.6px_13.3px_2px] flex flex-row justify-between w-[316.4px] box-sizing-border">
                   <div className="flex flex-row box-sizing-border">
                     <div className="m-[0_7px_0_0] flex flex-row justify-center w-[12px] h-[13.3px] box-sizing-border">
-                      <img className="w-[12px] h-[13.3px]" />
+                      <img src="https://cdn5.vectorstock.com/i/1000x1000/51/09/calendar-icon-vector-22895109.jpg" className="w-[12px] h-[13.3px]" />
                     </div>
                     <div className="m-[0.7px_0px_0.7px_0] inline-block break-words font-['Montserrat'] font-[var(--texthint-text-1,500)] text-[10px] text-[#767676]">
                      21 Jul 2024 | 03:00 am
@@ -517,7 +515,7 @@ function TaskCard() {
                   <div className="m-[0_0_12px_0] flex flex-row self-start w-[fit-content] box-sizing-border">
                     <div className="rounded-[4px] bg-[#F7F7F7] m-[0_4px_0_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
                       <div className="rounded-[2px] bg-[#FFFFFF] m-[0_5px_0_0] flex flex-row justify-center p-[2px_2px_2px_2px] w-[16px] h-[16px] box-sizing-border">
-                        <img className="w-[12px] h-[12px]" />
+                        <img src="https://w7.pngwing.com/pngs/938/934/png-transparent-fork-spoon-cloth-napkins-fork-plate-logo-vector-icons-thumbnail.png" className="w-[12px] h-[12px]" />
                       </div>
                       <div className="m-[0.5px_5.1px_0.5px_0] inline-block break-words font-['Encode_Sans_Expanded'] font-[var(--desktop-text-title-small,600)] text-[12px] text-[#1A0A02]">
                       Rajesh
@@ -526,7 +524,7 @@ function TaskCard() {
                       </div>
                     </div>
                     <div className="rounded-[20px] bg-[#F7F7F7] flex flex-row justify-center p-[2.7px_4.7px_2.7px_4.7px] w-[24px] h-[20px] box-sizing-border">
-                      <img className="w-[14.7px] h-[14.7px]" />
+                      <img  src="https://static.vecteezy.com/system/resources/thumbnails/016/186/968/small/reload-refresh-arrow-direction-rotate-icon-symbol-sign-free-vector.jpg" className="w-[14.7px] h-[16px]" />
                     </div>
                   </div>
                   <div className="m-[0_0_13.3px_0] flex flex-row justify-between w-[319px] box-sizing-border">
@@ -542,7 +540,7 @@ function TaskCard() {
                   <div className="m-[0_0.6px_13.3px_2px] flex flex-row justify-between w-[316.4px] box-sizing-border">
                     <div className="flex flex-row box-sizing-border">
                       <div className="m-[0_7px_0_0] flex flex-row justify-center w-[12px] h-[13.3px] box-sizing-border">
-                        <img className="w-[12px] h-[13.3px]" />
+                        <img src="https://cdn5.vectorstock.com/i/1000x1000/51/09/calendar-icon-vector-22895109.jpg" className="w-[12px] h-[13.3px]" />
                       </div>
                       <div className="m-[0.7px_0px_0.7px_0] inline-block break-words font-['Montserrat'] font-[var(--texthint-text-1,500)] text-[10px] text-[#767676]">
                        21 Jul 2024 | 03:00 am
@@ -580,7 +578,7 @@ function TaskCard() {
                   <div className="m-[0_0_12px_0] flex flex-row self-start w-[fit-content] box-sizing-border">
                     <div className="rounded-[4px] bg-[#F7F7F7] m-[0_4px_0_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
                       <div className="rounded-[2px] bg-[#FFFFFF] m-[0_5px_0_0] flex flex-row justify-center p-[2px_2px_2px_2px] w-[16px] h-[16px] box-sizing-border">
-                        <img className="w-[12px] h-[12px]" />
+                        <img src="https://w7.pngwing.com/pngs/938/934/png-transparent-fork-spoon-cloth-napkins-fork-plate-logo-vector-icons-thumbnail.png" className="w-[12px] h-[12px]" />
                       </div>
                       <div className="m-[0.5px_5.1px_0.5px_0] inline-block break-words font-['Encode_Sans_Expanded'] font-[var(--desktop-text-title-small,600)] text-[12px] text-[#1A0A02]">
                       Rajesh
@@ -589,7 +587,7 @@ function TaskCard() {
                       </div>
                     </div>
                     <div className="rounded-[20px] bg-[#F7F7F7] flex flex-row justify-center p-[2.7px_4.7px_2.7px_4.7px] w-[24px] h-[20px] box-sizing-border">
-                      <img className="w-[14.7px] h-[14.7px]" />
+                      <img src="https://static.vecteezy.com/system/resources/thumbnails/016/186/968/small/reload-refresh-arrow-direction-rotate-icon-symbol-sign-free-vector.jpg" className="w-[14.7px] h-[16px]" />
                     </div>
                   </div>
                   <div className="m-[0_0_13.3px_0] flex flex-row justify-between w-[319px] box-sizing-border">
@@ -605,7 +603,7 @@ function TaskCard() {
                   <div className="m-[0_0.6px_13.3px_2px] flex flex-row justify-between w-[316.4px] box-sizing-border">
                     <div className="flex flex-row box-sizing-border">
                       <div className="m-[0_7px_0_0] flex flex-row justify-center w-[12px] h-[13.3px] box-sizing-border">
-                        <img className="w-[12px] h-[13.3px]" />
+                        <img src="https://cdn5.vectorstock.com/i/1000x1000/51/09/calendar-icon-vector-22895109.jpg" className="w-[12px] h-[13.3px]" />
                       </div>
                       <div className="m-[0.7px_0px_0.7px_0] inline-block break-words font-['Montserrat'] font-[var(--texthint-text-1,500)] text-[10px] text-[#767676]">
                        21 Jul 2024 | 03:00 am
@@ -642,7 +640,7 @@ function TaskCard() {
                 <div className="m-[0_0_12px_0] flex flex-row self-start w-[fit-content] box-sizing-border">
                   <div className="rounded-[4px] bg-[#F7F7F7] m-[0_4px_0_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
                     <div className="rounded-[2px] bg-[#FFFFFF] m-[0_5px_0_0] flex flex-row justify-center p-[2px_2px_2px_2px] w-[16px] h-[16px] box-sizing-border">
-                      <img className="w-[12px] h-[12px]" />
+                      <img src="https://w7.pngwing.com/pngs/938/934/png-transparent-fork-spoon-cloth-napkins-fork-plate-logo-vector-icons-thumbnail.png" className="w-[12px] h-[12px]" />
                     </div>
                     <div className="m-[0.5px_5.1px_0.5px_0] inline-block break-words font-['Encode_Sans_Expanded'] font-[var(--desktop-text-title-small,600)] text-[12px] text-[#1A0A02]">
                     Rajesh
@@ -651,7 +649,7 @@ function TaskCard() {
                     </div>
                   </div>
                   <div className="rounded-[20px] bg-[#F7F7F7] flex flex-row justify-center p-[4px_6px_4px_6px] w-[24px] h-[20px] box-sizing-border">
-                    <img className="w-[12px] h-[12px]" />
+                    <img src="https://cdn.icon-icons.com/icons2/2716/PNG/512/number_square_one_icon_172987.png" className="w-[12px] h-[12px]" />
                   </div>
                 </div>
                 <div className="m-[0_0_13.3px_0] flex flex-row justify-between w-[319px] box-sizing-border">
@@ -667,7 +665,7 @@ function TaskCard() {
                 <div className="m-[0_0.6px_13.3px_2px] flex flex-row justify-between w-[316.4px] box-sizing-border">
                   <div className="flex flex-row box-sizing-border">
                     <div className="m-[0_7px_0_0] flex flex-row justify-center w-[12px] h-[13.3px] box-sizing-border">
-                      <img className="w-[12px] h-[13.3px]" />
+                      <img src="https://cdn5.vectorstock.com/i/1000x1000/51/09/calendar-icon-vector-22895109.jpg" className="w-[12px] h-[13.3px]" />
                     </div>
                     <div className="m-[0.7px_0px_0.7px_0] inline-block break-words font-['Montserrat'] font-[var(--texthint-text-1,500)] text-[10px] text-[#767676]">
                      21 Jul 2024 | 03:00 am
@@ -707,7 +705,7 @@ function TaskCard() {
                     <div className="flex flex-row box-sizing-border">
                       <div className="rounded-[4px] bg-[#F7F7F7] m-[1.5px_4px_1.5px_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
                         <div className="rounded-[2px] bg-[#FFFFFF] m-[0_5px_0_0] flex flex-row justify-center p-[2px_2px_2px_2px] w-[16px] h-[16px] box-sizing-border">
-                          <img className="w-[12px] h-[12px]" />
+                          <img src="https://w7.pngwing.com/pngs/938/934/png-transparent-fork-spoon-cloth-napkins-fork-plate-logo-vector-icons-thumbnail.png" className="w-[12px] h-[12px]" />
                         </div>
                         <div className="m-[0.5px_5.1px_0.5px_0] inline-block break-words font-['Encode_Sans_Expanded'] font-[var(--desktop-text-title-small,600)] text-[12px] text-[#1A0A02]">
                         Rajesh
@@ -731,7 +729,7 @@ function TaskCard() {
                         <span className="m-[0_4.3px_0_0] break-words font-['Encode_Sans_Expanded'] font-[var(--textsecondary-title-text,600)] text-[12px] text-[#FFFFFF]">
                         1
                         </span>
-                        <img className="rounded-[0.5px] m-[1.5px_0_1.5px_0] w-[12px] h-[12px]" />
+                        <img src="https://flagsweb.com/City_Flags/SVG/Flag_of_Maastricht.svg" className="rounded-[0.5px] m-[1.5px_0_1.5px_0] w-[12px] h-[12px]" />
                       </div>
                     </div>
                   </div>
@@ -748,7 +746,7 @@ function TaskCard() {
                   <div className="m-[0_0.6px_13.3px_2px] flex flex-row justify-between w-[341.4px] box-sizing-border">
                     <div className="flex flex-row box-sizing-border">
                       <div className="m-[0_7px_0_0] flex flex-row justify-center w-[12px] h-[13.3px] box-sizing-border">
-                        <img className="w-[12px] h-[13.3px]" />
+                        <img src="https://cdn5.vectorstock.com/i/1000x1000/51/09/calendar-icon-vector-22895109.jpg" className="w-[12px] h-[13.3px]" />
                       </div>
                       <div className="m-[0.7px_0_0.7px_0] inline-block break-words font-['Montserrat'] font-[var(--texthint-text-1,500)] text-[10px] text-[#767676]">
                        21 Jul 2024 | 03:00 am
@@ -786,7 +784,7 @@ function TaskCard() {
                   <div className="flex flex-row box-sizing-border">
                     <div className="rounded-[4px] bg-[#F7F7F7] m-[1.5px_4px_1.5px_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
                       <div className="rounded-[2px] bg-[#FFFFFF] m-[0_5px_0_0] flex flex-row justify-center p-[2px_2px_2px_2px] w-[16px] h-[16px] box-sizing-border">
-                        <img className="w-[12px] h-[12px]" />
+                        <img src="https://w7.pngwing.com/pngs/938/934/png-transparent-fork-spoon-cloth-napkins-fork-plate-logo-vector-icons-thumbnail.png" className="w-[12px] h-[12px]" />
                       </div>
                       <div className="m-[0.5px_5.1px_0.5px_0] inline-block break-words font-['Encode_Sans_Expanded'] font-[var(--desktop-text-title-small,600)] text-[12px] text-[#1A0A02]">
                       Rajesh
@@ -810,7 +808,7 @@ function TaskCard() {
                       <span className="m-[0_4.8px_0_0] break-words font-['Encode_Sans_Expanded'] font-[var(--textsecondary-title-text,600)] text-[12px] text-[#FFFFFF]">
                       5
                       </span>
-                      <img className="rounded-[0.5px] m-[1.5px_0_1.5px_0] w-[12px] h-[12px]" />
+                      <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Flag_of_Stellaland.svg" className="rounded-[0.5px] m-[1.5px_0_1.5px_0] w-[12px] h-[12px]" />
                     </div>
                   </div>
                 </div>
@@ -827,7 +825,7 @@ function TaskCard() {
                 <div className="m-[0_0.6px_13.3px_2px] flex flex-row justify-between w-[341.4px] box-sizing-border">
                   <div className="flex flex-row box-sizing-border">
                     <div className="m-[0_7px_0_0] flex flex-row justify-center w-[12px] h-[13.3px] box-sizing-border">
-                      <img className="w-[12px] h-[13.3px]" />
+                      <img src="https://cdn5.vectorstock.com/i/1000x1000/51/09/calendar-icon-vector-22895109.jpg" className="w-[12px] h-[13.3px]" />
                     </div>
                     <div className="m-[0.7px_0_0.7px_0] inline-block break-words font-['Montserrat'] font-[var(--texthint-text-1,500)] text-[10px] text-[#767676]">
                      21 Jul 2024 | 03:00 am
@@ -864,7 +862,7 @@ function TaskCard() {
                   <div className="flex flex-row box-sizing-border">
                     <div className="rounded-[4px] bg-[#F7F7F7] m-[1.5px_4px_1.5px_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
                       <div className="rounded-[2px] bg-[#FFFFFF] m-[0_5px_0_0] flex flex-row justify-center p-[2px_2px_2px_2px] w-[16px] h-[16px] box-sizing-border">
-                        <img className="w-[12px] h-[12px]" />
+                        <img src="https://w7.pngwing.com/pngs/938/934/png-transparent-fork-spoon-cloth-napkins-fork-plate-logo-vector-icons-thumbnail.png" className="w-[12px] h-[12px]" />
                       </div>
                       <div className="m-[0.5px_5.1px_0.5px_0] inline-block break-words font-['Encode_Sans_Expanded'] font-[var(--desktop-text-title-small,600)] text-[12px] text-[#1A0A02]">
                       Rajesh
@@ -888,7 +886,7 @@ function TaskCard() {
                       <span className="m-[0_4.8px_0_0] break-words font-['Encode_Sans_Expanded'] font-[var(--textsecondary-title-text,600)] text-[12px] text-[#FFFFFF]">
                       5
                       </span>
-                      <img className="rounded-[0.5px] m-[1.5px_0_1.5px_0] w-[12px] h-[12px]" />
+                      <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Flag_of_Stellaland.svg" className="rounded-[0.5px] m-[1.5px_0_1.5px_0] w-[12px] h-[12px]" />
                     </div>
                   </div>
                 </div>
@@ -905,7 +903,7 @@ function TaskCard() {
                 <div className="m-[0_0.6px_13.3px_2px] flex flex-row justify-between w-[341.4px] box-sizing-border">
                   <div className="flex flex-row box-sizing-border">
                     <div className="m-[0_7px_0_0] flex flex-row justify-center w-[12px] h-[13.3px] box-sizing-border">
-                      <img className="w-[12px] h-[13.3px]" />
+                      <img src="https://cdn5.vectorstock.com/i/1000x1000/51/09/calendar-icon-vector-22895109.jpg" className="w-[12px] h-[13.3px]" />
                     </div>
                     <div className="m-[0.7px_0_0.7px_0] inline-block break-words font-['Montserrat'] font-[var(--texthint-text-1,500)] text-[10px] text-[#767676]">
                      21 Jul 2024 | 03:00 am
@@ -941,7 +939,7 @@ function TaskCard() {
                 <div className="m-[0_0_12px_0] flex flex-row self-start w-[fit-content] box-sizing-border">
                   <div className="rounded-[4px] bg-[#F7F7F7] m-[1.5px_4px_1.5px_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
                     <div className="rounded-[2px] bg-[#FFFFFF] m-[0_5px_0_0] flex flex-row justify-center p-[2px_2px_2px_2px] w-[16px] h-[16px] box-sizing-border">
-                      <img className="w-[12px] h-[12px]" />
+                      <img src="https://w7.pngwing.com/pngs/938/934/png-transparent-fork-spoon-cloth-napkins-fork-plate-logo-vector-icons-thumbnail.png" className="w-[12px] h-[12px]" />
                     </div>
                     <div className="m-[0.5px_5.1px_0.5px_0] inline-block break-words font-['Encode_Sans_Expanded'] font-[var(--desktop-text-title-small,600)] text-[12px] text-[#1A0A02]">
                     Rajesh
@@ -968,7 +966,7 @@ function TaskCard() {
                 <div className="m-[0_0.6px_13.3px_2px] flex flex-row justify-between w-[341.4px] box-sizing-border">
                   <div className="flex flex-row box-sizing-border">
                     <div className="m-[0_7px_0_0] flex flex-row justify-center w-[12px] h-[13.3px] box-sizing-border">
-                      <img className="w-[12px] h-[13.3px]" />
+                      <img src="https://cdn5.vectorstock.com/i/1000x1000/51/09/calendar-icon-vector-22895109.jpg" className="w-[12px] h-[13.3px]" />
                     </div>
                     <div className="m-[0.7px_0_0.7px_0] inline-block break-words font-['Montserrat'] font-[var(--texthint-text-1,500)] text-[10px] text-[#767676]">
                      21 Jul 2024 | 03:00 am
@@ -1006,7 +1004,7 @@ function TaskCard() {
                     <div className="flex flex-row box-sizing-border">
                       <div className="rounded-[4px] bg-[#F7F7F7] m-[1.5px_4px_1.5px_0] flex flex-row p-[2px_4px_2px_4px] box-sizing-border">
                         <div className="rounded-[2px] bg-[#FFFFFF] m-[0_5px_0_0] flex flex-row justify-center p-[2px_2px_2px_2px] w-[16px] h-[16px] box-sizing-border">
-                          <img className="w-[12px] h-[12px]" />
+                          <img src="https://w7.pngwing.com/pngs/938/934/png-transparent-fork-spoon-cloth-napkins-fork-plate-logo-vector-icons-thumbnail.png" className="w-[12px] h-[12px]" />
                         </div>
                         <div className="m-[0.5px_5.1px_0.5px_0] inline-block break-words font-['Encode_Sans_Expanded'] font-[var(--desktop-text-title-small,600)] text-[12px] text-[#1A0A02]">
                         Rajesh
@@ -1030,7 +1028,7 @@ function TaskCard() {
                         <span className="m-[0_4.3px_0_0] break-words font-['Encode_Sans_Expanded'] font-[var(--textsecondary-title-text,600)] text-[12px] text-[#FFFFFF]">
                         1
                         </span>
-                        <img className="rounded-[0.5px] m-[1.5px_0_1.5px_0] w-[12px] h-[12px]" />
+                        <img src="https://flagsweb.com/City_Flags/SVG/Flag_of_Maastricht.svg" className="rounded-[0.5px] m-[1.5px_0_1.5px_0] w-[12px] h-[12px]" />
                       </div>
                     </div>
                   </div>
@@ -1047,7 +1045,7 @@ function TaskCard() {
                   <div className="m-[0_0.6px_13.3px_2px] flex flex-row justify-between w-[341.4px] box-sizing-border">
                     <div className="flex flex-row box-sizing-border">
                       <div className="m-[0_7px_0_0] flex flex-row justify-center w-[12px] h-[13.3px] box-sizing-border">
-                        <img className="w-[12px] h-[13.3px]" />
+                        <img src="https://cdn5.vectorstock.com/i/1000x1000/51/09/calendar-icon-vector-22895109.jpg" className="w-[12px] h-[13.3px]" />
                       </div>
                       <div className="m-[0.7px_0_0.7px_0] inline-block break-words font-['Montserrat'] font-[var(--texthint-text-1,500)] text-[10px] text-[#767676]">
                        21 Jul 2024 | 03:00 am
