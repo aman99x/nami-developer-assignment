@@ -5,7 +5,7 @@ function TaskCard() {
 
   const checkIsMobile = () => {
     const viewportWidth = window.innerWidth;
-    const mobileBreakpoint = 768; // You can adjust this breakpoint as needed
+    const mobileBreakpoint = 380; // You can adjust this breakpoint as needed
     setIsMobile(viewportWidth < mobileBreakpoint);
   };
 

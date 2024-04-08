@@ -10,7 +10,7 @@ function MainPage() {
 
   useEffect(() => {
     const updateMedia = () => {
-      setIsMobile(window.innerWidth < 768); 
+      setIsMobile(window.innerWidth < 380); 
     };
 
     updateMedia();
