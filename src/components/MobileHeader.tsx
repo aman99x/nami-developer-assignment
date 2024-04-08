@@ -1,4 +1,4 @@
-export default function Lus701() {
+export default function MobileHeader() {
     return (
       <div className="bg-[#FFFFFF] flex flex-col p-[2.7px_0_0_0] box-sizing-border">
         <div className="relative m-[0_5.3px_21.7px_4px] flex flex-row justify-between w-[calc(100%_-_9.3px)] box-sizing-border">
@@ -48,7 +48,7 @@ export default function Lus701() {
             Negative notification type description
             </span>
             <div className="m-[1.7px_0_1.7px_0] flex flex-row justify-center w-[11.7px] h-[11.7px] box-sizing-border">
-              <img className="w-[11.7px] h-[11.7px]" />
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgs1_D_RsTC-uPX430cPiV7Zm70TnvtknvTsSQLrSoNg&s" className="w-[11.7px] h-[11.7px]" />
             </div>
           </div>
           <div className="flex flex-row justify-between w-[100%] box-sizing-border">
