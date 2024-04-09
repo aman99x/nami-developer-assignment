@@ -1,4 +1,3 @@
-// import BellImage from '../assets/images/bellImage.png';
 import EllipseImage from '../assets/images/Ellipse185.png';
 
 function TopNav() {

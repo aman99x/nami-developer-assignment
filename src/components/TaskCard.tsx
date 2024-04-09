@@ -89,7 +89,7 @@ function TaskCard() {
                     <div className="m-[1px_0_1px_0] flex flex-row justify-center box-sizing-border">
                       <div className="rounded-[20px] bg-[#D7FFE7] flex flex-row p-[2px_4.4px_2px_5.3px] box-sizing-border">
                         <div className="m-[1.8px_5.3px_1.8px_0] flex flex-row justify-center w-[13.3px] h-[13.3px] box-sizing-border">
-                          <img className="w-[13.3px] h-[13.3px]" />
+                          <img src='https://w7.pngwing.com/pngs/413/755/png-transparent-clock-computer-icons-symbol-timer-clock-angle-digital-clock-time.png' className="w-[13.3px] h-[13.3px]" />
                         </div>
                         <span className="break-words font-['Montserrat'] font-medium text-[14px] text-[#00A441]">
                         20min
@@ -170,7 +170,7 @@ function TaskCard() {
                     <div className="m-[1px_0_1px_0] flex flex-row justify-center box-sizing-border">
                       <div className="rounded-[20px] bg-[#F4D8D8] flex flex-row p-[2px_4.6px_2px_5.3px] box-sizing-border">
                         <div className="m-[1.8px_5.3px_1.8px_0] flex flex-row justify-center w-[13.3px] h-[13.3px] box-sizing-border">
-                          <img className="w-[13.3px] h-[13.3px]" />
+                          <img src='https://w7.pngwing.com/pngs/413/755/png-transparent-clock-computer-icons-symbol-timer-clock-angle-digital-clock-time.png' className="w-[13.3px] h-[13.3px]" />
                         </div>
                         <span className="break-words font-['Montserrat'] font-medium text-[14px] text-[#CC2610]">
                         1min
@@ -251,7 +251,7 @@ function TaskCard() {
                     <div className="m-[1px_0_1px_0] flex flex-row justify-center box-sizing-border">
                       <div className="rounded-[20px] bg-[#D7FFE7] flex flex-row p-[2px_4.4px_2px_5.3px] box-sizing-border">
                         <div className="m-[1.8px_5.3px_1.8px_0] flex flex-row justify-center w-[13.3px] h-[13.3px] box-sizing-border">
-                          <img className="w-[13.3px] h-[13.3px]" />
+                          <img src='https://w7.pngwing.com/pngs/413/755/png-transparent-clock-computer-icons-symbol-timer-clock-angle-digital-clock-time.png' className="w-[13.3px] h-[13.3px]" />
                         </div>
                         <span className="break-words font-['Montserrat'] font-medium text-[14px] text-[#00A441]">
                         20min
@@ -319,7 +319,7 @@ function TaskCard() {
                     <div className="m-[1px_0_1px_0] flex flex-row justify-center box-sizing-border">
                       <div className="rounded-[20px] bg-[#D7FFE7] flex flex-row p-[2px_4.4px_2px_5.3px] box-sizing-border">
                         <div className="m-[1.8px_5.3px_1.8px_0] flex flex-row justify-center w-[13.3px] h-[13.3px] box-sizing-border">
-                          <img className="w-[13.3px] h-[13.3px]" />
+                          <img src='https://w7.pngwing.com/pngs/413/755/png-transparent-clock-computer-icons-symbol-timer-clock-angle-digital-clock-time.png' className="w-[13.3px] h-[13.3px]" />
                         </div>
                         <span className="break-words font-['Montserrat'] font-medium text-[14px] text-[#00A441]">
                         20min
