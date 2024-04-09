@@ -1,4 +1,4 @@
-import BellImage from '../assets/images/bellImage.png';
+// import BellImage from '../assets/images/bellImage.png';
 import EllipseImage from '../assets/images/Ellipse185.png';
 
 function TopNav() {
@@ -10,7 +10,7 @@ function TopNav() {
         </div>
         <div className="flex items-center">
           <div className="m-[4px_47.9px_6px_0] flex justify-center w-[38px] h-[38px]">
-            <img src={BellImage} alt="BellImage" className="w-full h-full" />
+            <img src="https://previews.123rf.com/images/mainfu/mainfu1811/mainfu181100524/112712399-notification-icon-vector-bell-with-a-red-circle-linear-sign.jpg" alt="BellImage" className="w-full h-full" />
           </div>
           <div className="rounded-full bg-center bg-cover bg-no-repeat w-[48px] h-[48px]">
             <img src={EllipseImage} alt="EllipseImage" className="w-full h-full" />
