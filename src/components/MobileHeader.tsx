@@ -43,7 +43,7 @@ export default function MobileHeader() {
               </div>
             </div>
           </div>
-          <div className="shadow-[0px_1px_4px_0px_rgba(0,0,0,0.1)] rounded-r-[12px] bg-[#F7F7F7] m-[0_0_24px_0] flex flex-row justify-between self-start p-[10.5px_28.2px_10.5px_24px] w-[335px] box-sizing-border">
+          <div className="shadow-[0px_1px_4px_0px_rgba(0,0,0,0.1)] rounded-r-[12px] bg-[#F7F7F7] m-[0_0_24px_0] flex flex-row justify-between self-start p-[10.5px_28.2px_10.5px_24px] w-[335px] box-sizing-border -ml-[8%] ">
             <span className="m-[0_7.5px_0_0] w-[263.7px] break-words font-['Encode_Sans_Expanded'] font-[var(--textsecondary-title-text-1,600)] text-[12px] text-[#CC2610]">
             Negative notification type description
             </span>
